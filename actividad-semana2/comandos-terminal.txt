@@ -1,0 +1,20 @@
+1. Primero entré a mi carpeta de proyecto con el comando "cd" más la ruta de la carpeta en mi pc.
+
+2. El segundo comando que utilicé lo hice para pasar de la rama "main" a la rama "valentin" fue "git checkout valentin".
+
+3. Lo tercero fue comprobar que estaba en mi rama con el comando "git branch".
+
+4. Lo cuarto fue crear la carpeta "actividad-semana2" usando el comando "mkdir" más el nombre de la carpeta.
+
+5. Después utilicé el comando "cd actividad-semana2" para entrar a la carpeta que había creado.
+
+6. Luego creé tres archivos de texto usando el comando "touch" seguido del nombre de cada archivo.
+
+7. Después utilicé el comando "ls" para verificar que los archivos y carpetas sí se habían creado correctamente.
+
+8. Más adelante tuve que volver a entrar al repositorio correcto usando el comando "cd /c/PPP".
+
+9. También utilicé nuevamente el comando "ls" para ver las carpetas que tenía dentro del proyecto.
+
+10. Finalmente confirmé que seguía trabajando en mi rama usando otra vez el comando "git branch".
+l
