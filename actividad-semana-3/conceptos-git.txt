@@ -1,0 +1,7 @@
+1. Un Repositorio es un espacio virtual donde podemos almacenar y organizar todo el avance o historial de nuestros proyectos, no solo nos permite guardar los cambios actuales, sino que nos permite registrar cambios, modificación o eliminación que hagamos en nuestro proyecto. Eso nos permite tener seguridad al momento de avanzar en nuestro proyectos e incluso de retroceder en ellos.
+
+
+2.  Un commit es igual que tomar una fotografía instantánea del estado actual de nuestros archivos en un momento específico del desarrollo de nuestros proyectos. Cada commit es como un punto de control guardado en la historia del proyecto que se requiere, lo que nos ayuda a saber qué cambios hicimos, por qué los hicimos y quién los realizó en esa momento particular.
+
+
+3. Es la acción que nos permite enviar o subir todos los commits que hemos guardado localmente en nuestros dispositivos hacia el repositorio en GitHub. Este comando actualiza el servidor en la nube con el trabajo más reciente, haciendo que los cambios estén disponibles y seguros permitiendo que otros colaboradores puedan verlos y descargarlos.
