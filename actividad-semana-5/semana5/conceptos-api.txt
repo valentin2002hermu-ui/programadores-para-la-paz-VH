@@ -1,0 +1,12 @@
+Explicación de la ruta /reporte:
+
+1. ¿Qué hace esta ruta?
+Esta es una ruta que usa el método POST. Lo que aprendí es que, a diferencia de las rutas GET que solo sirven para que el servidor nos muestre o nos dé información,
+las rutas POST sirven para que nosotros le enviemos datos desde afuera hacia el servidor.
+En este caso, el servidor recibe el texto que le mandamos en el "body" (req.body.mensaje) y nos responde con un JSON que confirma que el reporte llegó bien y nos devuelve el mismo mensaje que enviamos.
+
+2. ¿Para qué podría servir en una aplicación comunitaria?
+En una aplicación para el barrio o la comunidad, esta ruta sería perfecta para crear un buzón de reportes digital.
+Serviría para que los vecinos puedan enviar mensajes al servidor avisando sobre problemas de la comunidad en tiempo real,
+por ejemplo: reportar un bache en la calle, un poste de luz dañado que no prende, 
+acumulación de basura en un parque, o incluso mandar una alerta rápida si pasa algo peligroso en el sector.

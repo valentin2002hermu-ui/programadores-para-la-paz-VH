@@ -1,0 +1,8 @@
+Las APIs nos pueden ayudar muchísimo en el barrio porque sirven como un puente directo para conectar a todos los vecinos de forma ordenada.
+En vez de que los reportes de la comunidad se pierdan en grupos de WhatsApp llenos de mensajes, una API permite que la información llegue limpia y directo a un solo lugar.
+Por ejemplo, si un vecino usa una app para reportar una lámpara dañada o un problema de seguridad, la API se encarga de mandar esos datos exactos al servidor sin que se enrede nada.
+También serviría para conectar mapas en vivo, así todos podríamos ver en tiempo real en qué calles están pasando las cosas o dónde se necesita ayuda.
+Al final, hace que la información no se disperse, que el comité del barrio pueda clasificar los problemas por categorías y que las alertas importantes nos lleguen a todos al instante 
+para resolverlas más rápido. Además, lo mejor de usar APIs es que en el futuro podríamos conectar nuestro sistema con el de los bomberos o la policía local
+para que las alertas graves les lleguen a ellos automáticamente. Al final, hace que la información no se disperse, que el comité pueda clasificar los problemas por categorías
+y que todo se resuelva mucho más rápido y en equipo.

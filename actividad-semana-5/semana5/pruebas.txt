@@ -1,0 +1,10 @@
+Resultados de las pruebas en el navegador:
+
+1. Al entrar a http://localhost:3000
+Me sale en la pantalla el mensaje "Servidor activo". Esto pasa porque es la ruta principal del servidor (la raíz) y sirve para confirmar que todo está bien encendido y respondiendo.
+
+2. Al entrar a http://localhost:3000/saludo
+Me sale el texto "Hola comunidad". Esta es una ruta fija que creamos para que siempre que alguien entre ahí, el servidor le devuelva exactamente ese mismo saludo.
+
+3. Al entrar a http://localhost:3000/mensaje/juan
+Me sale el texto "Hola juan". Esta ruta es diferente porque usa un parámetro dinámico (:nombre). El servidor agarra el nombre que yo escriba al final de la URL y lo usa para armar un saludo personalizado. Si cambio "juan" por otro nombre, el saludo cambia automáticamente.
